@@ -1,0 +1,78 @@
+body {
+
+
+	/*background: #DAD7c7;*/
+
+	background-image: url("http://cdn.makeuseof.com/wp-content/uploads/2015/04/robot-books-670x335.jpg?x92042");
+
+	background-attachment: fixed;
+	background-position: center;
+
+	background-repeat: no-repeat;
+	background-size: 1400px;
+
+}
+
+.class1 {
+
+	display: inline;
+
+}
+
+.classb {
+
+	diasplay: inline;
+
+}
+
+#l1:visited, #l1:link {
+	color: red;
+	text-decoration: none;
+
+}
+#l1:hover {
+	text-decoration: underline;
+	background-color: #C0C0C0;
+}
+#l2:visited, #l1:link {
+	color: red;
+	text-decoration: none;
+
+}
+#l2:hover {
+	background-color: #C0C0C0;
+	text-decoration: underline;
+}
+#l3:visited, #l1:link {
+	color: red;
+	text-decoration: none;
+
+}
+#l3:hover {
+	background-color: #C0C0C0;
+	text-decoration: underline;
+}
+#l4:visited, #l1:link {
+	color: red;
+	text-decoration: none;
+
+}
+#l4:hover {
+	background-color: #C0C0C0;
+	text-decoration: underline;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #5CB3FF;
+}
+a:hover {
+	text-decoration: underline;
+	background-color: #0000FF;
+}
+a:active {
+	text-decoration: underline;
+	color: #00FFFF;
+}
