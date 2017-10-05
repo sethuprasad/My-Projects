@@ -1,0 +1,34 @@
+mechanical engineering subjects semester vice links														
+s.no	year	sem	subjects			link 1								
+1	2nd year 	1	mathematics-2											
+2			business management											https://drive.google.com/file/d/0B9bpsTYXP4ceclJ2RkN2d1I2S1U/view
+3			electrical and electronics eng											
+4			engineering mechanics			https://drive.google.com/file/d/0B9bpsTYXP4ceQ1o1OE83WEtOTk0/view								https://drive.google.com/file/d/0B9bpsTYXP4ceTnBneXhzRV96dWs/view
+5			fluid mechanics -1			https://drive.google.com/file/d/0B9bpsTYXP4ceNTViOVV4R2dIVFk/view								https://drive.google.com/file/d/0B9bpsTYXP4ceSjZfa0thV05BUW8/view
+6			material science and eng			https://drive.google.com/file/d/0B7JWdKw_4Q07S2drblpiZnpDTTA/view								https://drive.google.com/file/d/0B7JWdKw_4Q07VmRGQVR4OVludVU/view
+														
+s.no	year	sem	subjects			link1								link2
+1	2nd year 	2	probability and statistics											
+2			environmental science											
+3			fluid mechanics-2			https://drive.google.com/file/d/0B9bpsTYXP4ceNTViOVV4R2dIVFk/view								https://drive.google.com/file/d/0B9bpsTYXP4ceSjZfa0thV05BUW8/view
+4			mechanics of solids			https://drive.google.com/file/d/0B4E5MzDPRFhXQTlrMjZxQm44eXM/view								https://drive.google.com/file/d/0ByxdTFrVdYn6TDhwTjZFUW9ZblU/view
+5			engineering thermodynamics			https://drive.google.com/open?id=0B9bpsTYXP4ceaGttcWo1ek04d1E								https://drive.google.com/file/d/0B6pGoYzCs7PgUUpLSGlFY1JWNzA/view
+6			machine drawing			http://web.iitd.ac.in/~achawla/public_html/201/lectures/sp46.pdf								
+														
+s.no	year	sem	subjects			link1								
+1	3rd year	1	thermal engineering			https://drive.google.com/file/d/0B9bpsTYXP4ceQUdXTl8zTmZjX1U/view								https://drive.google.com/file/d/0B9bpsTYXP4ceenJ1UkNnSUNkUFE/view
+2			automobile engineering			https://drive.google.com/file/d/0B9bpsTYXP4ceeE8teGJxa1NwSjQ/view								https://drive.google.com/file/d/0B7JWdKw_4Q07TXcxa1RibzViWXM/view
+3			kinematics of machinery			https://drive.google.com/file/d/0B9bpsTYXP4ceenF2RC01alpjNlk/view								https://drive.google.com/file/d/0B9bpsTYXP4ceTmRVU0RJOU03UVk/view
+4			manufacturing technology			https://drive.google.com/file/d/0B5CXzYw2DbwIR1FlMW9hMkpQV0k/view								https://drive.google.com/file/d/0B7JWdKw_4Q07M1F1Nm92TEUzczA/view
+5			design of machine elements-1			https://drive.google.com/file/d/0B3h0CpWCkxWALTk4T3k5d1hXekU/view								https://drive.google.com/file/d/0B0x70tiTtCGyN3BIc2JQOVllRlE/view
+														
+s.no	year	sem	subjects			link1								
+1	3rd year	2	operations research			https://drive.google.com/file/d/0B9bpsTYXP4ceb1pRNGFrMlNLN1E/view								https://drive.google.com/file/d/0B9bpsTYXP4ceclJ2RkN2d1I2S1U/view
+2			dynamics of machinery			https://drive.google.com/file/d/0B9bpsTYXP4ceenF2RC01alpjNlk/view								https://drive.google.com/file/d/0B9bpsTYXP4ceU1M5V0Qtejl4VUU/view
+3			design of mahine elements-2			https://drive.google.com/file/d/0B3h0CpWCkxWALTk4T3k5d1hXekU/view								https://drive.google.com/file/d/0B0x70tiTtCGyN3BIc2JQOVllRlE/view
+4			refrigeration and a&c			https://drive.google.com/file/d/0B7JWdKw_4Q07Q3VwSlBxMFd0Vjg/view								https://drive.google.com/file/d/0B9bpsTYXP4ceTC0ycVVMX3RxSGs/view
+5		engineering metrology & measurements												
+6			machine tools technology											
+														
+														
+														

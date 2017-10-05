@@ -1,0 +1,29 @@
+body {
+
+
+	/*background: #DAD7c7;*/
+
+	background-image: url("http://101fundraising.org/wp-content/uploads/2015/02/stock-footage-d-man-reading-a-book-sitting-against-a-white-background.jpg");
+
+	background-attachment: fixed;
+
+	background-position: center;
+
+	background-repeat: no-repeat;
+
+	background-size: 800px 600px;
+
+}
+
+.class1 {
+
+	display: inline;
+
+}
+
+.classb {
+
+	diasplay: inline;
+
+}
+
